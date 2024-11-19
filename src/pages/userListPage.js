@@ -86,7 +86,7 @@ const UserListPage = () => {
         </div>
       </div>
 
-      {/* Table and Card View */}
+      {/* Table view and Card View */}
       {isTableView ? (
         <table className="user-table">
           <thead>
